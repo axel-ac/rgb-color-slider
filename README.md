@@ -13,7 +13,7 @@ rgb-color-slider (folder)
 ## Project-gif
 ![rgb-color-slider](https://github.com/axel-ac/rgb-color-slider/assets/102467587/7ec7babb-755a-4642-97a3-0549c696f92f)
 ## Project-link
-
+https://rgb-color-slider.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML 
 - CSS
